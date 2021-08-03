@@ -1,0 +1,14 @@
+{
+  "name": "djangodrf",
+  "description": "",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    },
+    {
+      "plan": "heroku-redis"
+    }
+  ],
+  "stack": "container",
+  "buildpacks": []
+}
